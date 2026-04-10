@@ -100,7 +100,7 @@ It supports user registration, login, JWT token generation, token validation, an
 
 ## Author
 
-Anshika Sinha
+Harshita 
 
 
 
